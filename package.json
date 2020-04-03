@@ -18,6 +18,7 @@
     "test": "cd packages/react-scripts && node bin/react-scripts.js test",
     "format": "prettier --trailing-comma es5 --single-quote --write 'packages/*/*.js' 'packages/*/!(node_modules)/**/*.js'",
     "compile:lockfile": "node tasks/compile-lockfile.js"
+
     
   },
   "devDependencies": {
